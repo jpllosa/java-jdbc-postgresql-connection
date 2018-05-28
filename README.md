@@ -1,1 +1,1 @@
-# java-jdbc-postgresql-connection
+# Java JDBC PostgreSQL Connection Example
